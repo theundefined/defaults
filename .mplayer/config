@@ -1,0 +1,16 @@
+subcp=cp1250
+#subcp=utf8
+#subcp=auto
+subpos=95
+subalign=2
+subfont-encoding=unicode
+subfont-text-scale=2.5
+font='Verdana'
+fontconfig=yes
+subfont-text-scale=4
+vo=xv
+ao=alsa
+overlapsub=no
+stop-xscreensaver=1
+heartbeat-cmd="xdotool key ctrl"
+#vf=pp,expand=0:-220:0
